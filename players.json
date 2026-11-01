@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-01T20:46:10Z",
- "count": 272,
+ "updated": "2026-11-01T21:01:12Z",
+ "count": 273,
  "players": [
   {
    "username": "avynchius",
@@ -804,6 +804,12 @@
   {
    "username": "BaconBoi_Joker",
    "roblox_id": 3353148028,
+   "status": "Ally",
+   "clan": "BP"
+  },
+  {
+   "username": "Basically_Ker",
+   "roblox_id": 242701942,
    "status": "Ally",
    "clan": "BP"
   },
