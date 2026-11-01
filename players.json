@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-01T22:49:16Z",
+ "updated": "2026-11-01T22:50:17Z",
  "count": 274,
  "players": [
   {
@@ -1372,6 +1372,12 @@
    "clan": "BP ALLIES"
   },
   {
+   "username": "bonbanchupi5",
+   "roblox_id": 5028322411,
+   "status": "Ally",
+   "clan": "BP ALLIES"
+  },
+  {
    "username": "DDnll14",
    "roblox_id": 1435849267,
    "status": "Ally",
@@ -1438,6 +1444,12 @@
    "clan": "BP ALLIES"
   },
   {
+   "username": "peroxidase1",
+   "roblox_id": 7012703366,
+   "status": "Ally",
+   "clan": "BP ALLIES"
+  },
+  {
    "username": "rlub423",
    "roblox_id": 4249209704,
    "status": "Ally",
@@ -1446,6 +1458,12 @@
   {
    "username": "Saybronnit",
    "roblox_id": 10468826185,
+   "status": "Ally",
+   "clan": "BP ALLIES"
+  },
+  {
+   "username": "Sokol9097480",
+   "roblox_id": 1176674002,
    "status": "Ally",
    "clan": "BP ALLIES"
   },
@@ -1522,12 +1540,6 @@
    "clan": null
   },
   {
-   "username": "bonbanchupi5",
-   "roblox_id": 5028322411,
-   "status": "Ally",
-   "clan": null
-  },
-  {
    "username": "booklkook",
    "roblox_id": 55630689,
    "status": "Ally",
@@ -1596,18 +1608,6 @@
   {
    "username": "NustHup",
    "roblox_id": 1004235029,
-   "status": "Ally",
-   "clan": null
-  },
-  {
-   "username": "peroxidase1",
-   "roblox_id": 7012703366,
-   "status": "Ally",
-   "clan": null
-  },
-  {
-   "username": "Sokol9097480",
-   "roblox_id": 1176674002,
    "status": "Ally",
    "clan": null
   },
