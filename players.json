@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-01T21:04:13Z",
+ "updated": "2026-11-01T22:49:16Z",
  "count": 274,
  "players": [
   {
@@ -1378,6 +1378,12 @@
    "clan": "BP ALLIES"
   },
   {
+   "username": "Fokurou_Kamisori3",
+   "roblox_id": 4531672767,
+   "status": "Ally",
+   "clan": "BP ALLIES"
+  },
+  {
    "username": "gepa1245",
    "roblox_id": 4412421155,
    "status": "Ally",
@@ -1386,6 +1392,12 @@
   {
    "username": "Hage_Wagee",
    "roblox_id": 3200861576,
+   "status": "Ally",
+   "clan": "BP ALLIES"
+  },
+  {
+   "username": "korb_loxer2",
+   "roblox_id": 4026052772,
    "status": "Ally",
    "clan": "BP ALLIES"
   },
@@ -1540,12 +1552,6 @@
    "clan": null
   },
   {
-   "username": "Fokurou_Kamisori3",
-   "roblox_id": 4531672767,
-   "status": "Ally",
-   "clan": null
-  },
-  {
    "username": "FoltikaKutya",
    "roblox_id": 1862194932,
    "status": "Ally",
@@ -1572,12 +1578,6 @@
   {
    "username": "kaansniperdsg07",
    "roblox_id": 581662191,
-   "status": "Ally",
-   "clan": null
-  },
-  {
-   "username": "korb_loxer2",
-   "roblox_id": 4026052772,
    "status": "Ally",
    "clan": null
   },
