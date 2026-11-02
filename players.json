@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-02T08:53:22Z",
- "count": 274,
+ "updated": "2026-11-02T12:41:26Z",
+ "count": 275,
  "players": [
   {
    "username": "avynchius",
@@ -1572,6 +1572,12 @@
   {
    "username": "GOK_standofvanyapro",
    "roblox_id": 10970906002,
+   "status": "Ally",
+   "clan": null
+  },
+  {
+   "username": "IAmNotCreaneet",
+   "roblox_id": 2050706387,
    "status": "Ally",
    "clan": null
   },
