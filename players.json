@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-02T17:08:31Z",
- "count": 276,
+ "updated": "2026-11-03T11:22:48Z",
+ "count": 277,
  "players": [
   {
    "username": "avynchius",
@@ -1490,6 +1490,12 @@
    "roblox_id": 1660820390,
    "status": "Ally",
    "clan": "BP ALLIES"
+  },
+  {
+   "username": "gagatu",
+   "roblox_id": 92096818,
+   "status": "Ally",
+   "clan": "KILLERS"
   },
   {
    "username": "yigiab",
