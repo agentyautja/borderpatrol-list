@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-03T18:25:06Z",
- "count": 284,
+ "updated": "2026-11-04T14:29:22Z",
+ "count": 285,
  "players": [
   {
    "username": "avynchius",
@@ -810,6 +810,12 @@
   {
    "username": "Alli_pzf3k",
    "roblox_id": 1323981279,
+   "status": "Ally",
+   "clan": "BP"
+  },
+  {
+   "username": "AllowPc",
+   "roblox_id": 183665266,
    "status": "Ally",
    "clan": "BP"
   },
