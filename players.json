@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-12T16:18:03Z",
+ "updated": "2026-11-12T21:39:09Z",
  "count": 324,
  "players": [
   {
@@ -1102,6 +1102,12 @@
    "clan": "BP"
   },
   {
+   "username": "InicjatorPP",
+   "roblox_id": 3683486685,
+   "status": "Ally",
+   "clan": "BP"
+  },
+  {
    "username": "ironcatboy",
    "roblox_id": 859569690,
    "status": "Ally",
@@ -1872,12 +1878,6 @@
   {
    "username": "IAmNotCreaneet",
    "roblox_id": 2050706387,
-   "status": "Ally",
-   "clan": null
-  },
-  {
-   "username": "InicjatorPP",
-   "roblox_id": 3683486685,
    "status": "Ally",
    "clan": null
   },
