@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-14T14:12:52Z",
- "count": 327,
+ "updated": "2026-11-15T04:12:06Z",
+ "count": 328,
  "players": [
   {
    "username": "avynchius",
@@ -576,6 +576,12 @@
   {
    "username": "24x828",
    "roblox_id": 2050900094,
+   "status": "Enemy",
+   "clan": null
+  },
+  {
+   "username": "2awaa",
+   "roblox_id": 2684634864,
    "status": "Enemy",
    "clan": null
   },
