@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-15T04:12:06Z",
- "count": 328,
+ "updated": "2026-11-16T15:28:22Z",
+ "count": 329,
  "players": [
   {
    "username": "avynchius",
@@ -726,6 +726,12 @@
   {
    "username": "Piarxiss",
    "roblox_id": 1237536972,
+   "status": "Enemy",
+   "clan": null
+  },
+  {
+   "username": "PotatoChips_12333",
+   "roblox_id": 11768226942,
    "status": "Enemy",
    "clan": null
   },
