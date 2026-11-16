@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-16T15:28:22Z",
- "count": 329,
+ "updated": "2026-11-16T18:31:28Z",
+ "count": 330,
  "players": [
   {
    "username": "avynchius",
@@ -528,6 +528,12 @@
   {
    "username": "roblox13247563",
    "roblox_id": 1184656130,
+   "status": "Enemy",
+   "clan": "HAKAI"
+  },
+  {
+   "username": "rockstarfredbear1",
+   "roblox_id": 759575718,
    "status": "Enemy",
    "clan": "HAKAI"
   },
