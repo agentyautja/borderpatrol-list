@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-16T20:22:31Z",
+ "updated": "2026-11-16T20:23:32Z",
  "count": 331,
  "players": [
   {
@@ -546,6 +546,12 @@
   {
    "username": "Savik228337",
    "roblox_id": 1437294341,
+   "status": "Enemy",
+   "clan": "HAKAI"
+  },
+  {
+   "username": "sky123pl1",
+   "roblox_id": 470572951,
    "status": "Enemy",
    "clan": "HAKAI"
   },
@@ -1356,12 +1362,6 @@
   {
    "username": "saxa123234",
    "roblox_id": 103786592,
-   "status": "Ally",
-   "clan": "BP"
-  },
-  {
-   "username": "sky123pl1",
-   "roblox_id": 470572951,
    "status": "Ally",
    "clan": "BP"
   },
