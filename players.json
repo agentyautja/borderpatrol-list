@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-16T18:31:28Z",
- "count": 330,
+ "updated": "2026-11-16T20:22:31Z",
+ "count": 331,
  "players": [
   {
    "username": "avynchius",
@@ -1944,6 +1944,12 @@
   {
    "username": "NustHup",
    "roblox_id": 1004235029,
+   "status": "Ally",
+   "clan": null
+  },
+  {
+   "username": "RobloxAccounNotFound",
+   "roblox_id": 5256009161,
    "status": "Ally",
    "clan": null
   },
