@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-17T17:08:52Z",
+ "updated": "2026-11-17T23:01:58Z",
  "count": 333,
  "players": [
   {
@@ -652,12 +652,6 @@
    "clan": null
   },
   {
-   "username": "ForeverJosky",
-   "roblox_id": 2549431935,
-   "status": "Enemy",
-   "clan": null
-  },
-  {
    "username": "FrezzW1N8",
    "roblox_id": 7587406113,
    "status": "Enemy",
@@ -1068,6 +1062,12 @@
   {
    "username": "FoolsAndSages",
    "roblox_id": 3293771526,
+   "status": "Ally",
+   "clan": "BP"
+  },
+  {
+   "username": "ForeverJosky",
+   "roblox_id": 2549431935,
    "status": "Ally",
    "clan": "BP"
   },
