@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-16T20:23:32Z",
- "count": 331,
+ "updated": "2026-11-17T13:43:45Z",
+ "count": 332,
  "players": [
   {
    "username": "avynchius",
@@ -404,6 +404,12 @@
    "roblox_id": 1650255955,
    "status": "Enemy",
    "clan": "GOK"
+  },
+  {
+   "username": "jopi1337",
+   "roblox_id": 859859568,
+   "status": "Enemy",
+   "clan": "GOK/RKN"
   },
   {
    "username": "aaaaaaaaqwqaaaaaa",
