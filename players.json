@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-19T13:37:52Z",
+ "updated": "2026-11-19T13:42:54Z",
  "count": 334,
  "players": [
   {
@@ -484,6 +484,12 @@
    "clan": "HAKAI"
   },
   {
+   "username": "Klouderty",
+   "roblox_id": 3460666492,
+   "status": "Enemy",
+   "clan": "HAKAI"
+  },
+  {
    "username": "lflnity",
    "roblox_id": 2629017224,
    "status": "Enemy",
@@ -684,12 +690,6 @@
   {
    "username": "KiryuX3",
    "roblox_id": 2475727414,
-   "status": "Enemy",
-   "clan": null
-  },
-  {
-   "username": "Klouderty",
-   "roblox_id": 3460666492,
    "status": "Enemy",
    "clan": null
   },
