@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-20T12:15:53Z",
- "count": 336,
+ "updated": "2026-11-20T13:50:56Z",
+ "count": 337,
  "players": [
   {
    "username": "avynchius",
@@ -1230,6 +1230,12 @@
   {
    "username": "Lavr_king",
    "roblox_id": 620793221,
+   "status": "Ally",
+   "clan": "BP"
+  },
+  {
+   "username": "LK24_999",
+   "roblox_id": 3024752614,
    "status": "Ally",
    "clan": "BP"
   },
