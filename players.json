@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-24T21:44:08Z",
+ "updated": "2026-11-25T10:24:22Z",
  "count": 340,
  "players": [
   {
@@ -502,12 +502,6 @@
    "clan": "HAKAI"
   },
   {
-   "username": "LOLEZSA",
-   "roblox_id": 1060231136,
-   "status": "Enemy",
-   "clan": "HAKAI"
-  },
-  {
    "username": "Lute_meme",
    "roblox_id": 2277654326,
    "status": "Enemy",
@@ -696,6 +690,12 @@
   {
    "username": "ligthing2961",
    "roblox_id": 1861763123,
+   "status": "Enemy",
+   "clan": null
+  },
+  {
+   "username": "LOLEZSA",
+   "roblox_id": 1060231136,
    "status": "Enemy",
    "clan": null
   },
