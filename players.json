@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-25T21:42:39Z",
- "count": 339,
+ "updated": "2026-11-25T21:45:40Z",
+ "count": 338,
  "players": [
   {
    "username": "avynchius",
@@ -426,12 +426,6 @@
   {
    "username": "ClownDetected",
    "roblox_id": 398464788,
-   "status": "Enemy",
-   "clan": "HAKAI"
-  },
-  {
-   "username": "DogToSecretDog",
-   "roblox_id": 7752131426,
    "status": "Enemy",
    "clan": "HAKAI"
   },
