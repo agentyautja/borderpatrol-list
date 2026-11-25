@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-25T15:02:29Z",
- "count": 338,
+ "updated": "2026-11-25T15:09:30Z",
+ "count": 339,
  "players": [
   {
    "username": "avynchius",
@@ -1512,6 +1512,12 @@
   {
    "username": "Xeno_Here",
    "roblox_id": 703326964,
+   "status": "Ally",
+   "clan": "BP"
+  },
+  {
+   "username": "XenwoodQueen",
+   "roblox_id": 2072612,
    "status": "Ally",
    "clan": "BP"
   },
